@@ -6,7 +6,7 @@ html {
 body {
     font-family: 'Open Sans', sans-serif;
     letter-spacing: 0.2px;
-    color: #272930;
+    color: #333;
     margin: 0;
 }
 
@@ -23,7 +23,7 @@ h2 {
     font-size: 28px;
     line-height: 30px;
     text-align: center;
-    color: #272930;
+    color: #333;
     margin-block-start: 40px;
     margin-block-end: 30px;
     margin-inline-start: 0px;
@@ -46,7 +46,7 @@ a:hover {
 .navbar {
     overflow: hidden;
     background-color: #0098f1;
-    color: #272930;
+    color: #333;
     top: 0;
     width: 100%;
     height: 70px;
@@ -59,7 +59,7 @@ a:hover {
 
 .navbar a {
     margin-right: 40px;
-    color: #272930;
+    color: #333;
 }
 
 .navbar a:active {
@@ -119,7 +119,7 @@ a:hover {
     font-weight: 600;
     text-align: left;
     text-decoration: none;
-    color: #272930;
+    color: #333;
     display: block;
     padding-bottom: 12px;
 }
@@ -131,7 +131,7 @@ a:hover {
     line-height: 30px;
     display: block;
     text-decoration: none;
-    color: #272930;
+    color: #333;
 }
 
 .sidepanel a.sub-section {
@@ -141,7 +141,7 @@ a:hover {
     line-height: 25px;
     display: block;
     text-decoration: none;
-    color: #272930;
+    color: #333;
     padding-left: 20px;
 
 }
@@ -244,7 +244,7 @@ a:hover {
 }
 
 .footer a {
-    color: #272930;
+    color: #333;
 }
 
 .resp-break {
