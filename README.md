@@ -1,2 +1,4 @@
 # doctemplate
-A simple HTML/CSS documentation template
+Doctemplate is a simple HTML/CSS documentation template for your projects. As simple as it is. Enjoy it!
+
+![Doctemplate](/doctemplate.png)
